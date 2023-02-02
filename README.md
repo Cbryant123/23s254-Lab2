@@ -3,7 +3,14 @@ Git Commands practice
 
 Group Members: 
 
+
 Shawn Melwani
+
+
 Chandler Bryant
+
+
 Karene Rosales
+
+
 Karim Villasenor Chavez
